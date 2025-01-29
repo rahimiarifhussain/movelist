@@ -1,3 +1,4 @@
+import "../css/Favorites.css";
 const Favorites = ()=> {
     return(
         <h2>Favorities pages</h2>

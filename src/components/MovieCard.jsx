@@ -1,5 +1,5 @@
 import { FaHeart } from "react-icons/fa";
-
+import "../css/MovieCard.css"
 const MovieCard = ({movie})=> {
     const onFavoriteClick =()=> {
         alert("clicked");
